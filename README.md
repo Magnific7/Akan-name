@@ -23,7 +23,7 @@ numerical input;
 output: Kwame
 
 ## Technologies Used
-The application was built using CSS and HTML javacript language. 
+The application was built using CSS ,HTML javacript language. 
 
 
 
