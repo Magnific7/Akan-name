@@ -16,7 +16,7 @@ Behavior: shows the akan name after clicking on comfirm.
 * input example: female
 
 numerical input; 
-*day:20
+* day:20
 *month:7
 *year:2019
 
