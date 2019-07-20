@@ -17,7 +17,7 @@ The application only require you to put in valid dates and click confirm to see 
 *month:7
 *year:2019
 
-output:
+output: Kwame
 
 ## Technologies Used
 The application was built using CSS , HTML and javacript language. 
@@ -27,7 +27,7 @@ The application was built using CSS , HTML and javacript language.
 ## Support and contact details
 In case you meet any bugs please let us know .
 You can contact us on 0785712803
-link:https://github.com/Magnific7/Wikepedia.git
+link:https://github.com/Magnific7/Akan-name.git
 ### License
 Copyright by Me 2019 **Moringa School**
   
