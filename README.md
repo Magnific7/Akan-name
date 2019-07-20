@@ -4,7 +4,8 @@
 This is an application to help you know what your akan name is which corresponds to the day of the week on which you were born..
 ## Author
 This application was made by a student in Moringa school called Magnific.
-email:mjones6944@gmail.com
+* email:mjones6944@gmail.com
+
 tel:0784444444
 ## Setup instructions
 The application only require you to put in valid dates and click confirm to see the day of week when you were born and the akan name.
