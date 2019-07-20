@@ -15,7 +15,7 @@ Behavior: shows the akan name after clicking on comfirm.
 
 * input example: female
 
-numerical imput; 
+numerical input; 
 *day:20
 *month:7
 *year:2019
