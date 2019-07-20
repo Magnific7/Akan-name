@@ -10,7 +10,7 @@ tel:0784444444
 The application only require you to put in valid dates and click confirm to see the day of week when you were born and the akan name.
 
 ## BDD
-*Behavior: shows the akan name after clicking on comfirm.
+* Behavior: shows the akan name after clicking on comfirm.
 *input example: female
 numerical imput; 
 *day:20
