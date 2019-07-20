@@ -12,7 +12,8 @@ The application only require you to put in valid dates and click confirm to see 
 
 ## BDD
 Behavior: shows the akan name after clicking on comfirm.
-*input example: female
+
+* input example: female
 
 numerical imput; 
 *day:20
