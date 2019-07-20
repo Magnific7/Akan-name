@@ -1,0 +1,13 @@
+.container{
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiu_stnIpQY212Mg_lUKTpO9MXaZOpcko09gZ_NNmo49OKAaKXng");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width:50%;
+ color: 
+}
+.jumbotron{
+  width:65%;
+}
+#usr{
+  width:50%;
+}
