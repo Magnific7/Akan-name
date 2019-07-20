@@ -1,7 +1,7 @@
 # Akan name
 
 ## Description
-*This is an application to help you know what your akan name is which corresponds to the day of the week on which you were born..
+This is an application to help you know what your akan name is which corresponds to the day of the week on which you were born..
 ## Author
 This application was made by a student in Moringa school called Magnific.
 email:mjones6944@gmail.com
