@@ -17,7 +17,7 @@ Behavior: shows the akan name after clicking on comfirm.
 
 numerical input; 
 * day:20
-*month:7
+* month:7
 *year:2019
 
 output: Kwame
