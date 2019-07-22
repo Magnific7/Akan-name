@@ -24,7 +24,7 @@ if(day > 0 && day <= 31 && month > 0 && month <= 12){
 
 }
 else{
-  console.log("Invalidinput");
+  alert("Invalidinput");
 }
 
 };
