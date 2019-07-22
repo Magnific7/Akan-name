@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Reset HTML form</title>
+   </head>
+   <body>
+      <form id="newForm">
+         Student Name<br><input type="text" name="sname"><br>
+         Student Subject<br><input type="password" name="ssubject"><br>
+         <input type="button" onclick="newFunction()" value="Reset">
+      </form>
+      <script>
+         function newFunction() {
+            document.getElementById("newForm").reset();
+         }
+      </script>
+   </body>
+</html>

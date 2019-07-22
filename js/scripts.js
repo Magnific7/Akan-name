@@ -28,3 +28,10 @@ else{
 }
 
 };
+function reset(){
+  document.getElementById('dd').value += " ";
+  document.getElementById('mm').value += " ";
+  document.getElementById('yy').value += " ";
+ //document.getElementByClass('form-group').value += " ";
+
+}
